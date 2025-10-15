@@ -4,3 +4,6 @@ read a
 echo "enter your surname"
 read b
 echo "your name is $a $b"
+echo "thank you"
+echo "test"
+echo "bye"
